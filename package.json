@@ -1,0 +1,32 @@
+{
+  "name": "apple-music-discord-rich-presence",
+  "version": "1.0.0",
+  "description": "discord rich presence for apple music",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qewertyy/apple-music-discord-presence.git"
+  },
+  "keywords": [
+    "apple",
+    "music",
+    "discord",
+    "rich",
+    "presence",
+    "applescript",
+    "macos",
+    "itunes"
+  ],
+  "author": "Qewertyy <qewertyy.irl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qewertyy/apple-music-discord-presence/issues"
+  },
+  "homepage": "https://github.com/qewertyy/apple-music-discord-presence#readme",
+  "dependencies": {
+    "@xhayper/discord-rpc": "^1.2.2"
+  }
+}
