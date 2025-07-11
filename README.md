@@ -45,7 +45,7 @@ It updates your Discord status in real-time with the current song, artist, and a
 
 ---
 
-### what tt does
+### what it does
 
 Every 5 seconds:
 
