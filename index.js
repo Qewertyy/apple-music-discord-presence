@@ -81,6 +81,8 @@ async function updateActivity(track) {
     buttons: [
       { label: "Listen on Apple Music", url: "https://music.apple.com" },
     ],
+    smallImageKey: "apple_music",
+    smallImageText: "Listening on Apple Music",
   });
 }
 
